@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "220px-Need_to_send_one_at_a_later_date_2013-04-22_03-4.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
